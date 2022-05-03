@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Data Science Final Project
 
-You can use the [editor on GitHub](https://github.com/jimenacotera/introds-final-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+https://jimenacotera.github.io/introds-final-project/
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
